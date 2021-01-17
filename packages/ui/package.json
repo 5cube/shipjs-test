@@ -1,0 +1,8 @@
+{
+  "name": "@shipjs-test/ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stepan Sotnikov",
+  "license": "ISC",
+  "private": true
+}
